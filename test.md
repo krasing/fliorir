@@ -19,4 +19,5 @@ layout: post
 
 ### Картинки?
 Трябва да се качат и после да се сложи връзка
-![Chirp](chirp.png)
+
+![Chirp](http://fliorir.com/thumbnails/image12.jpg)
